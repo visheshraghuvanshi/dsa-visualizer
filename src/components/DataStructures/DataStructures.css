@@ -1,0 +1,27 @@
+.data-structures {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .data-structures h1 {
+    margin-bottom: 30px;
+  }
+  
+  .links {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+  }
+  
+  .links a {
+    padding: 10px 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    text-decoration: none;
+    color: #666;
+  }
+  
+  .links a:hover {
+    background: #eee; 
+  }

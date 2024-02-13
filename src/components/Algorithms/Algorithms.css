@@ -1,0 +1,28 @@
+.algorithms {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center; 
+  }
+  
+  .algorithms h1 {
+    margin-bottom: 30px;
+  }
+  
+  .links {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; 
+  }
+  
+  .links a {
+    margin: 10px;
+    padding: 10px 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    text-decoration: none;
+    color: #666; 
+  }
+  
+  .links a:hover {
+    background: #eee;
+  }
